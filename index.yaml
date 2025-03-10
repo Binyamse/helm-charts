@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  kubewatch-api:
+  - apiVersion: v2
+    created: "2025-03-10T10:05:46.23464679Z"
+    description: A Helm chart for Kubernetes API Monitoring
+    digest: 09e76bf6dc52be7a027a0b6a2a1c29f767e95aeaf656bb46593035f27572c2c8
+    name: kubewatch-api
+    urls:
+    - https://Binyamse.github.io/helm-charts/kubewatch-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-10T10:05:46.233854901Z"
